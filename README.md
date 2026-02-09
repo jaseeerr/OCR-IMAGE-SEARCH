@@ -14,8 +14,9 @@ Desktop app built with Tkinter + Tesseract OCR to index images and search text f
 1. Windows 11
 2. Python 3.10+ (added to PATH)
 3. Inno Setup 6
-4. Tesseract installed at:
-   `C:\Users\jasee\AppData\Local\Programs\Tesseract-OCR\tesseract.exe`
+
+4. Tesseract OCR installed at:
+   `C:\Users\user\AppData\Local\Programs\Tesseract-OCR\tesseract.exe`
 
 ## Important files
 - `app.py`: main OCR Image Search app
