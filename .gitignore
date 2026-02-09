@@ -1,0 +1,33 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local databases/runtime files
+inventory_ocr.db
+*.sqlite
+*.db
+
+# Build artifacts
+build/
+dist/
+installer-output/
+*.spec
+
+# Bundled runtime folder (large, generated locally)
+tesseract-runtime/
+
+# Logs/temp
+*.log
+*.tmp
+*.temp
+
+# IDE/editor
+.vscode/
+.idea/
+
