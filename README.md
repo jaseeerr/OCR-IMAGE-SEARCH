@@ -7,7 +7,7 @@ Tkinter desktop app for OCR indexing/search of inventory images with image previ
 2. Python 3.10+ (added to PATH)
 3. Inno Setup 6
 4. Tesseract OCR installed at:
-   `C:\Users\jasee\AppData\Local\Programs\Tesseract-OCR\tesseract.exe`
+   `C:\Users\user\AppData\Local\Programs\Tesseract-OCR\tesseract.exe`
 
 ## Project files
 - `app.py`: main desktop app
